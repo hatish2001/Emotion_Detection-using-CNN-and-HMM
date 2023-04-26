@@ -1,0 +1,9 @@
+* Flask 
+* Virtual environments 
+* tensorflow
+* hmmlearn 
+* keras
+* numpy 
+* pandas
+* matplotlib
+* opencv

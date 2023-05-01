@@ -1,7 +1,7 @@
 ### Following libraries are required to run the application
 
 * Flask 
-* Virtual environments 
+* Virtual environments (venv) 
 * tensorflow
 * hmmlearn 
 * keras
